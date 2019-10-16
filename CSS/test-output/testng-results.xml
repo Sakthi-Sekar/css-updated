@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-16T15:50:08Z" name="Default suite" finished-at="2019-10-16T15:50:30Z" duration-ms="22164">
+    <groups>
+    </groups>
+    <test started-at="2019-10-16T15:50:08Z" name="Default test" finished-at="2019-10-16T15:50:30Z" duration-ms="22164">
+      <class name="com.org.konakart.testscripts.HeroImagePage">
+        <test-method signature="setup()[pri:0, instance:com.org.konakart.testscripts.HeroImagePage@2e005c4b]" started-at="2019-10-16T15:50:08Z" name="setup" finished-at="2019-10-16T15:50:24Z" duration-ms="16580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnHeroImage()[pri:2, instance:com.org.konakart.testscripts.HeroImagePage@2e005c4b]" started-at="2019-10-16T15:50:24Z" name="clickOnHeroImage" finished-at="2019-10-16T15:50:29Z" duration-ms="4960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnHeroImage -->
+        <test-method signature="validatetabsOfHeroImage()[pri:3, instance:com.org.konakart.testscripts.HeroImagePage@2e005c4b]" started-at="2019-10-16T15:50:29Z" name="validatetabsOfHeroImage" finished-at="2019-10-16T15:50:30Z" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatetabsOfHeroImage -->
+        <test-method signature="sortByActions()[pri:4, instance:com.org.konakart.testscripts.HeroImagePage@2e005c4b]" started-at="2019-10-16T15:50:30Z" name="sortByActions" finished-at="2019-10-16T15:50:30Z" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortByActions -->
+      </class> <!-- com.org.konakart.testscripts.HeroImagePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
